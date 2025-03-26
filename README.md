@@ -1,6 +1,10 @@
 # Hi, I'm Hirushi 👋
 ![Animated Header](https://media1.giphy.com/media/4GWmvKBiml8vPQUchI/200w.gif?cid=6c09b952bl27caedkue3egpj50mc4329g5asr2ls0gp2clxg&ep=v1_gifs_search&rid=200w.gif&ct=g)
 ## コーディング大好き | 💻 コーヒーをコードに変える | 🌐 一文字ずつ、ウェブを構築中 🧚🏻‍♀️
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="snake animation"/>
+</div>
 ## 👀 About Me
 I'm a passionate software developer with a love for coding, problem-solving, and creating meaningful digital experiences.
 
