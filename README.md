@@ -5,6 +5,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700" alt="snake animation"/>
 </div>
+
 ## 👀 About Me
 I'm a passionate software developer with a love for coding, problem-solving, and creating meaningful digital experiences.
 
