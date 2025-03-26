@@ -1,6 +1,6 @@
 # Hi, I'm Hirushi 👋
 ![Animated Header](https://media1.giphy.com/media/4GWmvKBiml8vPQUchI/200w.gif?cid=6c09b952bl27caedkue3egpj50mc4329g5asr2ls0gp2clxg&ep=v1_gifs_search&rid=200w.gif&ct=g)
-
+## コーディング大好き | 💻 コーヒーをコードに変える | 🌐 一文字ずつ、ウェブを構築中 🧚🏻‍♀️
 ## 👀 About Me
 I'm a passionate software developer with a love for coding, problem-solving, and creating meaningful digital experiences.
 
@@ -39,5 +39,7 @@ I'm a passionate software developer with a love for coding, problem-solving, and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### コーディングが大好きで、うまく学ぼうとしています。🤓
 
 ![Cool GIF](https://gifdb.com/images/high/azure-lane-cute-anime-typing-fast-bctubdjt5d0eikl8.gif)
